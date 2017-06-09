@@ -12,7 +12,7 @@ ___
 - [ ] Music Player Implementation
 - [ ] Backend Networking Handler Implementation
 - [ ] Data Struct Modeling
-- [ ] Final Graphical User Interface Modeling
+- [ ] Final GUI and Animations Implementation
 - [ ] Download Manager Implementation
 - [ ] File Manager Implementation
 
