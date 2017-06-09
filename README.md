@@ -1,11 +1,11 @@
 # Gramaphone-iOS
 Powerful Music Player for iOS
 ### Features:
-..* Music Player
+1.Music Player
 
-..* Lyrics Crawler
+2.Lyrics Crawler
 
-..* Music Crawler
+2.Music Crawler
 
 ___
 ### Project To-Do:
@@ -19,7 +19,6 @@ ___
 # Documentation
 #### Will be available after first Push
 
-___
 # LICENSE 
 ```MIT License
 
